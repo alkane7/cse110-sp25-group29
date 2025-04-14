@@ -16,8 +16,6 @@ layout: default
 - Creativity
 
 ## Members
-Wanna know who we are? Watch our team video!
-![logo](./videos/lab2.mp4)
 - [Aarav Vidhawan](https://github.com/a-vidhawan)
 - [Arnav Talreja](https://github.com/ArnavTalreja)
 - [Brandon Khor](https://github.com/brandonkhor)
